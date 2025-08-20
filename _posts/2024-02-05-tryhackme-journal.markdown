@@ -6,7 +6,7 @@ img: tryhackme.png
 alt: image-alt
 
 # Add the link to your journal below
-[project-url: https://docs.google.com/document/d/18QvnjVFodB4xJeJcuWypKliUrTRZSrmfDhvHFb_ki_k/view?usp=sharing](https://docs.google.com/document/d/18QvnjVFodB4xJeJcuWypKliUrTRZSrmfDhvHFb_ki_k/edit?usp=sharing)
+project-url: https://docs.google.com/document/d/18QvnjVFodB4xJeJcuWypKliUrTRZSrmfDhvHFb_ki_k/view?usp=sharing 
 
 
 
